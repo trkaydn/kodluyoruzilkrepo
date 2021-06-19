@@ -4,10 +4,8 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığ�
 
 ![Projem](https://github.com/trkaydn/kodluyoruzilkrepo/blob/main/github.PNG)
 
-
 ## Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-
 `git clone https://github.com/trkaydn/kodluyoruzilkrepo.git`
 
 ## Usage
